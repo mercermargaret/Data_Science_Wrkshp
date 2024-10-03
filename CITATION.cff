@@ -1,0 +1,13 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: ctmm bobcat analysis
+message: 'if you use this, please cite it!'
+type: software
+authors:
+  - given-names: Margaret
+    family-names: Mercer
+    email: iammegmercer@gmail.com
+    affiliation: University of Arizona
+    orcid: 'https://orcid.org/4503-2945-3450-3409'
